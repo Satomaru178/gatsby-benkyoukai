@@ -8,3 +8,6 @@ import "./src/style.css"
 
 // Highlighting for code blocks
 import "prismjs/themes/prism.css"
+
+// bootstrap CSS styles
+import 'bootstrap/dist/css/bootstrap.min.css';
